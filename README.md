@@ -1,4 +1,4 @@
-hi, i'm **Ipshita** 👋
+Hi, I'm **Ipshita** 👋
 
 Product designer currently at JP Morgan Chase, 
 previously EY.
@@ -14,7 +14,7 @@ sure they actually feel right. figma to react/next.js.
 - building my portfolio at [ipshita.dev](https://www.ipshita.dev)
 - packing my bags for Berlin 🇩🇪 (relocating mid-2026)
 
-**When i'm not designing**
+**When I'm not designing/building**
 - oil and acrylic painting (mostly landscapes, occasionally disasters)
 - reading anything i can get my hands on
 - travelling to places where i don't speak the language and somehow managing to survive (most recently Sri LankA, Malaysia and Japan)
