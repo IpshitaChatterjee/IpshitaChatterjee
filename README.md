@@ -11,7 +11,7 @@ sure they actually feel right. figma to react/next.js.
 
 **Right now**
 - shipping design systems and AI concepts at Chase Home Lending
-- building my portfolio at [ipshita.dev](https://ipshita.dev)
+- building my portfolio at [ipshita.dev](https://www.ipshita.dev)
 - packing my bags for Berlin 🇩🇪 (relocating mid-2026)
 
 **When i'm not designing**
