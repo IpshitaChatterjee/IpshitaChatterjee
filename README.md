@@ -1,26 +1,26 @@
 Hi, I'm **Ipshita** 👋
 
-Product designer currently at JP Morgan Chase, 
-previously EY.
+Product Designer currently at JP Morgan Chase, 
+previously EY Studio +.
 
 I design complex digital products:  financial tools, enterprise 
 platforms, AI-powered workflows and then get into the code to make 
-sure they actually feel right. figma to react/next.js.
+sure they actually feel right. figma to react/next.js
 
 ---
 
-**Right now**
-- shipping design systems and AI concepts at Chase Home Lending
-- building my portfolio at [ipshita.dev](https://www.ipshita.dev)
-- packing my bags for Berlin 🇩🇪 (relocating mid-2026)
+**Right Now**
+- Shipping design systems and AI concepts at Chase Home Lending
+- Building my portfolio at [ipshita.dev](https://www.ipshita.dev)
+- Packing my bags for Berlin 🇩🇪 (relocating mid-2026)
 
-**When I'm not designing/building**
-- oil and acrylic painting (mostly landscapes, occasionally disasters)
-- reading anything i can get my hands on
-- travelling to places where i don't speak the language and somehow managing to survive (most recently Sri LankA, Malaysia and Japan)
+**When I'm not Designing or Building**
+- Oil and acrylic painting (mostly landscapes, occasionally disasters)
+- Reading anything I can get my hands on
+- Travelling to places where i don't speak the language and somehow managing to survive (most recently Sri LankA, Malaysia and Japan)
 
 ---
 
-**My toolkit**
+**My Toolkit**
 `Figma` `Next.js` `React.js` `Tailwind` `HTML/CSS` `JavaScript` 
 `Framer` `Cursor` `v0` `Claude Code`
