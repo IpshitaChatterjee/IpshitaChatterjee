@@ -17,7 +17,7 @@ sure they actually feel right. figma to react/next.js
 **When I'm not Designing or Building**
 - Oil and acrylic painting (mostly landscapes, occasionally disasters)
 - Reading anything I can get my hands on
-- Travelling to places where i don't speak the language and somehow managing to survive (most recently Sri LankA, Malaysia and Japan)
+- Travelling to places where i don't speak the language and somehow managing to survive (most recently Sri Lanka, Malaysia and Japan)
 
 ---
 
