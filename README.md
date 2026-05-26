@@ -1,7 +1,8 @@
 Hi, I'm **Ipshita** 👋
 
 Product Designer currently based out of Berlin, Kreuzberg 🇩🇪
-previously EY Studio +.
+
+previously JP Morgan Chase and EY Studio +.
 
 I design complex digital products:  financial tools, enterprise 
 platforms, AI-powered workflows and then get into the code to make 
