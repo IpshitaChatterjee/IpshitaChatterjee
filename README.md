@@ -1,6 +1,6 @@
 Hi, I'm **Ipshita** 👋
 
-Product Designer currently at JP Morgan Chase, 
+Product Designer currently based out of Berlin, Kreuzberg 🇩🇪
 previously EY Studio +.
 
 I design complex digital products:  financial tools, enterprise 
@@ -12,7 +12,6 @@ sure they actually feel right. figma to react/next.js
 **Right Now**
 - Shipping design systems and AI concepts at Chase Home Lending
 - Building my portfolio at [ipshita.dev](https://www.ipshita.dev)
-- Packing my bags for Berlin 🇩🇪 (relocating mid-2026)
 
 **When I'm not Designing or Building**
 - Oil and acrylic painting (mostly landscapes, occasionally disasters)
