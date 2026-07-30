@@ -11,8 +11,8 @@ sure they actually feel right. figma to react/next.js
 ---
 
 **Right Now**
-- Shipping design systems and AI concepts at Chase Home Lending
 - Building my portfolio at [ipshita.dev](https://www.ipshita.dev)
+- Learning how to code properly with [The Odin Project](https://www.theodinproject.com/)
 
 **When I'm not Designing or Building**
 - Oil and acrylic painting (mostly landscapes, occasionally disasters)
