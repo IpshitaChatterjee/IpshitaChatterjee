@@ -1,6 +1,6 @@
 Hi, I'm **Ipshita** 👋
 
-Product Designer currently based out of Berlin, Kreuzberg 🇩🇪
+Product Designer currently based out of Berlin 🇩🇪
 
 previously JP Morgan Chase and EY Studio +.
 
