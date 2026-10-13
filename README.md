@@ -1,6 +1,6 @@
 Hi, I'm **Ipshita** 👋
 
-Product Designer currently based out of Berlin 🇩🇪
+Product Designer at Cloover currently based out of Berlin 🇩🇪
 
 previously JP Morgan Chase and EY Studio +.
 
@@ -12,7 +12,8 @@ sure they actually feel right. figma to react/next.js
 
 **Right Now**
 - Building my portfolio at [ipshita.dev](https://www.ipshita.dev)
-- Learning how to code properly with [The Odin Project](https://www.theodinproject.com/)
+- Making fun stuff at [Cloover](https://cloover.com/)
+- Learning how to code with [The Odin Project](https://www.theodinproject.com/)
 
 **When I'm not Designing or Building**
 - Oil and acrylic painting (mostly landscapes, occasionally disasters)
